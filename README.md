@@ -1,1 +1,3 @@
-# 7SEG_TMR0_INT_EXAMPLE_XC8
+# 7 Segment Timer Interrupt Example
+
+## Video tutorial: https://youtu.be/oSfByzzaWfE
